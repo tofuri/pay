@@ -1,0 +1,5 @@
+/target
+/tofuri-db
+/tofuri-pay-db
+/tofuri-wallet
+*.env
