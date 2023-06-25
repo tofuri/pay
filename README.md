@@ -1,4 +1,4 @@
-# Tofuri Pay - Selfhosted Payement Processor
+# Tofuri Pay - Payement Processor
 
 [![Rust](https://github.com/tofuri/pay/actions/workflows/rust.yml/badge.svg)](https://github.com/tofuri/pay/actions/workflows/rust.yml)
 [![dependency status](https://deps.rs/repo/github/tofuri/pay/status.svg)](https://deps.rs/repo/github/tofuri/pay)
