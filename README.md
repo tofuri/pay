@@ -14,5 +14,5 @@ Visit [doc.tofuri.com](https://doc.tofuri.com) for detailed installation instruc
 ---
 
 | Port Number | Description |
-|-|-|-|
+|-|-|
 | 2023 | Payment Processor API over HTTP using JSON format |
