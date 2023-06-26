@@ -13,6 +13,6 @@ Visit [doc.tofuri.com](https://doc.tofuri.com) for detailed installation instruc
 
 ---
 
-| Port Number | Crate | Description |
+| Port Number | Description |
 |-|-|-|
-| 2023 | tofuri-pay | Payment Processor API over HTTP using JSON format |
+| 2023 | Payment Processor API over HTTP using JSON format |
